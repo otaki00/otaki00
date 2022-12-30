@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @otaki00
+f- 👋 Hi, I’m @otaki00
 - 👀 I’m interested in software developments 
 - 🌱 I’m currently learning fullstack (with asp.NET & angular )
-- 💞️ I’m looking to collaborate on working together to be better
+- 💞️ I’m looking to collaborate for working together to be better
 - 📫 How to reach me 
 - email : ohamed382@gmail.com
 - facebook : https://www.facebook.com/profile.php?id=100013586051026
