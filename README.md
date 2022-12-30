@@ -1,4 +1,4 @@
-f- 👋 Hi, I’m @otaki00
+f- 👋 Hi, I’m omar hamed
 - 👀 I’m interested in software developments 
 - 🌱 I’m currently learning fullstack (with asp.NET & angular )
 - 💞️ I’m looking to collaborate for working together to be better
