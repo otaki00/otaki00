@@ -1,6 +1,6 @@
 f- 👋 Hi, I’m omar hamed
-- 👀 I’m interested in software developments 
-- 🌱 I’m currently learning fullstack (with asp.NET & angular )
+- 👀 I’m work as fron-end developer ( Angular ) 
+- 🌱 I’m currently learning fullstack (ExpressJs and React )
 - 💞️ I’m looking to collaborate for working together to be better
 - 📫 How to reach me 
 - email : ohamed382@gmail.com
