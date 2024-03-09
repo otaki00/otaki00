@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Hamed</h1>
-<h3 align="center">I'm a talented Jn Front-End Enginer from palestine 🙌</h3>
+<h3 align="center">I'm a talented Jr Software Enginer from palestine 🙌 ( specialized in front-end )</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otaki00" alt="otaki00" /></a> </p>
 
